@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Logo](https://github.com/cjviton/cjviton/blob/main/RECURSOS%20GITHUB/technology.jpg)
+
 <!--
 **cjviton/cjviton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
