@@ -1,6 +1,10 @@
 # BIENVENID@S A MI GITHUB 
 
+
+
 ![Logo](https://github.com/cjviton/cjviton/blob/main/RECURSOS%20GITHUB/technology.jpg)
+
+
 
 
 
@@ -13,7 +17,7 @@
 ### - SISTEMAS INFORMÁTICOS
 
 
-![Logo]
+![Logo](https://github.com/cjviton/cjviton/blob/main/RECURSOS%20GITHUB/codigo_java.png)
 
 
 <!--
