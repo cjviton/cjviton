@@ -20,7 +20,7 @@
 ![Logo](https://github.com/cjviton/cjviton/blob/main/RECURSOS%20GITHUB/codigo_java.png)
 
 
-##AQUÍ PUEDES VER ALGUNOS DE MOS PROYECCTOS
+# AQUÍ PUEDES VER ALGUNOS DE MOS PROYECCTOS
 
 
 <!--
