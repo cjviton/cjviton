@@ -1,6 +1,27 @@
-### Hi there 👋
+# BIENVENID@S A MI GITHUB 
+
+
 
 ![Logo](https://github.com/cjviton/cjviton/blob/main/RECURSOS%20GITHUB/technology.jpg)
+
+
+
+
+
+### EN LA ACTULIDAD CURSO EL PRIMER AÑO DE GRADO SUPERIOR 
+### DE DESAROLLO DE APLICACIONES PARA MULTIPLATAFORMA
+### - PROGRAMACIÓN .JAVA
+### - BASES DE DATOS
+### - ENTORNOS DE DESAROLLO
+### - LENGUAJES DE MARCAS. HTML. CSS. XML.
+### - SISTEMAS INFORMÁTICOS
+
+
+![Logo](https://github.com/cjviton/cjviton/blob/main/RECURSOS%20GITHUB/codigo_java.png)
+
+
+# AQUÍ PODRÁS VER ALGUNOS DE MIS PROYECTOS
+
 
 <!--
 **cjviton/cjviton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
